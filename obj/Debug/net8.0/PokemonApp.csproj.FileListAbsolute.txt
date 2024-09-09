@@ -1,0 +1,212 @@
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\appsettings.Development.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\appsettings.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.exe
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.deps.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.runtimeconfig.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.pdb
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\AutoMapper.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Humanizer.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Npgsql.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Text.Json.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.csproj.AssemblyReference.cache
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.AssemblyInfoInputs.cache
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.AssemblyInfo.cs
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.csproj.CoreCompileInputs.cache
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cs
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cache
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.PokemonApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.build.PokemonApp.props
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokemonApp.props
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokemonApp.props
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\scopedcss\bundle\PokemonApp.styles.css
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.csproj.CopyComplete
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\refint\PokemonApp.dll
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.pdb
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.genruntimeconfig.cache
+D:\JungTalent project\.NET\Web API\PokemonApp\PokemonApp\obj\Debug\net8.0\ref\PokemonApp.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\appsettings.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.exe
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.deps.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.runtimeconfig.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\PokemonApp.pdb
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\AutoMapper.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Humanizer.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Npgsql.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\System.Text.Json.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.csproj.AssemblyReference.cache
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.AssemblyInfoInputs.cache
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.AssemblyInfo.cs
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.csproj.CoreCompileInputs.cache
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.PokemonApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.build.PokemonApp.props
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PokemonApp.props
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PokemonApp.props
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\scopedcss\bundle\PokemonApp.styles.css
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.csproj.Up2Date
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\refint\PokemonApp.dll
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.pdb
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\PokemonApp.genruntimeconfig.cache
+D:\Duy\hoc tap\Git\PokemonApp\PokemonApp\PokemonApp\obj\Debug\net8.0\ref\PokemonApp.dll
